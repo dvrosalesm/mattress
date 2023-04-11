@@ -7,4 +7,4 @@ The idea behind mattress is to be able to authenticate to any website using your
 ## Code
 This repo includes WasmCloud actors for deploying and managing a `Warehouse` which deploys your own `Mattress` to store decentralized credentials.
 
-Actors and providers are meant to be deployed on (Cosmonic)[https://cosmonic.com]
+Actors and providers are meant to be deployed on [Cosmonic](https://cosmonic.com)
